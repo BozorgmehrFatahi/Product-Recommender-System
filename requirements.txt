@@ -2,6 +2,6 @@ numpy
 pandas
 keras
 scikit-learn
-imblearn
+imbalanced_learn
 matplotlib
 seaborn
